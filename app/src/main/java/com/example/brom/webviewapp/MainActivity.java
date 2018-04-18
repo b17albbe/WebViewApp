@@ -25,8 +25,8 @@ public class MainActivity extends AppCompatActivity {
 
         setContentView(webView);
 
-        //webView.loadUrl("file:///android_asset/index.html");
-        webView.loadUrl("https://youtube.com");
+        webView.loadUrl("file:///android_asset/index.html");
+        //webView.loadUrl("https://youtube.com");
 
     }
 
